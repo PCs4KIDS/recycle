@@ -53,9 +53,12 @@
     function create ()
     {
        // this.add.image(400, 300, 'sky');
+       //  this.background = this.game.add.sprite(0, 0, 'background');
+       //  this.background.width = game.width;
+       //  this.background.height = game.height;
 
         bg = this.physics.add.staticGroup();
-        bg.create(650, 300, 'sky').setScale(0.65).refreshBody();
+        bg.create(game.width, game.height, 'sky');
 
         // bg.create(400, 300, 'sky').setScale(2.2).refreshBody();
 

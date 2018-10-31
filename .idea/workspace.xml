@@ -2,74 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ebcc875-0e8d-4455-a9e3-a4e8f29bce1b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/garbage_items/organic/apple_green.png" afterPath="$PROJECT_DIR$/assets/garbage_items/organic/organic1.png" />
-      <change beforePath="$PROJECT_DIR$/assets/garbage_items/organic/apple_red.png" afterPath="$PROJECT_DIR$/assets/garbage_items/organic/organic2.png" />
-      <change beforePath="$PROJECT_DIR$/assets/garbage_items/organic/banana.png" afterPath="$PROJECT_DIR$/assets/garbage_items/organic/organic3.png" />
-      <change beforePath="$PROJECT_DIR$/assets/garbage_items/organic/bellpeppers.png" afterPath="$PROJECT_DIR$/assets/garbage_items/organic/organic4.png" />
-      <change beforePath="$PROJECT_DIR$/assets/garbage_items/organic/carrot_stalk.png" afterPath="$PROJECT_DIR$/assets/garbage_items/organic/organic5.png" />
-      <change beforePath="$PROJECT_DIR$/assets/garbage_items/organic/chicken.png" afterPath="$PROJECT_DIR$/assets/garbage_items/organic/organic6.png" />
-      <change beforePath="$PROJECT_DIR$/assets/garbage_items/organic/egg_shells.png" afterPath="$PROJECT_DIR$/assets/garbage_items/organic/organic7.png" />
-      <change beforePath="$PROJECT_DIR$/assets/garbage_items/organic/fish.png" afterPath="$PROJECT_DIR$/assets/garbage_items/organic/organic8.png" />
-      <change beforePath="$PROJECT_DIR$/assets/garbage_items/organic/watermelon.png" afterPath="$PROJECT_DIR$/assets/garbage_items/organic/organic9.png" />
-      <change beforePath="$PROJECT_DIR$/js/lvl1.js" afterPath="$PROJECT_DIR$/js/lvl1.js" />
+      <change afterPath="$PROJECT_DIR$/assets/background/barn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/clouds/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/clouds/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/clouds/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/clouds/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/correct.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/close_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/faq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/leader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/misic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/music_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/prew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/prize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/shop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/sound_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/upgrade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/small_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/star_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/star_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/star_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/star_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_items/table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/wrong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/correct.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/wrong.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/levels/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lvl1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lvl1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/lvl1.html" beforeDir="false" afterPath="$PROJECT_DIR$/levels/lvl1.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-104391167">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1384" />
+          <entry key="js" value="3407" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1384" />
+          <entry key="JavaScript" value="3407" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="png" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="195">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lvl1.html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/levels/lvl1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="-897">
+              <caret line="3" column="71" lean-forward="true" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lvl1.js" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/lvl1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-250">
-              <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Background.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Background.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phaser.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/phaser.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1563">
+              <caret line="147" column="1" lean-forward="true" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -79,8 +124,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -93,6 +138,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/levels/lvl1.html" />
         <option value="$PROJECT_DIR$/js/lvl1.js" />
+        <option value="$PROJECT_DIR$/main.html" />
       </list>
     </option>
   </component>
@@ -102,94 +148,97 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1102" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="1" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PCS4KIDS-Game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PCS4KIDS-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PCS4KIDS-Game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PCS4KIDS-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PCS4KIDS-Game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PCS4KIDS-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="garbage_items" type="462c0819:PsiDirectoryNode" />
+              <item name="clouds" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PCS4KIDS-Game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PCS4KIDS-Game" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="garbage_items" type="462c0819:PsiDirectoryNode" />
-              <item name="organic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PCS4KIDS-Game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PCS4KIDS-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="garbage_items" type="462c0819:PsiDirectoryNode" />
-              <item name="plastic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PCS4KIDS-Game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PCS4KIDS-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="menu_items" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="menu_items" type="462c0819:PsiDirectoryNode" />
+              <item name="btn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
+              <item name="audio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PCS4KIDS-Game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PCS4KIDS-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
               <item name="levels" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/menu_items" />
+      <recent name="$PROJECT_DIR$/assets/menu_items/btn" />
+      <recent name="$PROJECT_DIR$/audio" />
+      <recent name="$PROJECT_DIR$/assets/background" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/levels" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/assets/menu_items" />
       <recent name="D:\Documents\Projects\PCS4KIDS-Game\js" />
       <recent name="D:\Documents\Projects\PCS4KIDS-Game\assets" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Documents\Projects\PCS4KIDS-Game" />
-      <recent name="D:\Documents\Projects\PCS4KIDS-Game\assets" />
-      <recent name="D:\Documents\Projects\PCS4KIDS-Game\assets\grass" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -203,9 +252,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -221,11 +267,13 @@
       <workItem from="1536665346941" duration="2418000" />
       <workItem from="1537186227569" duration="5516000" />
       <workItem from="1537851504495" duration="21480000" />
+      <workItem from="1540348943610" duration="110000" />
+      <workItem from="1540349059344" duration="36539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48261000" />
+    <option name="totallyTimeSpent" value="84910000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,26 +285,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1102" extended-state="7" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16445623" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4960212" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5039788" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33110368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16420014" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5039788" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.33110368" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.4960212" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,95 +313,7 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/groundSnow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/penguin2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/penguin.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/dude.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/groundSnow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/penguin2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/penguin.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/dude.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/groundSnow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/penguin2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/penguin.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/dude.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/penguin-hat.json" />
     <entry file="file://$PROJECT_DIR$/assets/penguin-right.png" />
     <entry file="file://$PROJECT_DIR$/assets/penguin-hat.png" />
@@ -361,77 +321,76 @@
     <entry file="file://$PROJECT_DIR$/assets/pengu-hat.json" />
     <entry file="file://$PROJECT_DIR$/assets/pengu_walk.json" />
     <entry file="file://$PROJECT_DIR$/assets/penguin.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/dude.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/penguin.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/penguin2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/groundSnow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/characterRed.png" />
-    <entry file="file://$PROJECT_DIR$/js/phaser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/garbage_items/organic/organic4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/garbage_items/organic/organic5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/menu_items/table.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/menu_items/star_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/menu_items/star_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/menu_items/star_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/phaser.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/levels/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="60" column="50" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/clouds/3.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/levels/lvl1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="-897">
+          <caret line="3" column="71" lean-forward="true" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lvl1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1563">
+          <caret line="147" column="1" lean-forward="true" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/menu_items/bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>

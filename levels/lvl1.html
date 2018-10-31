@@ -5,15 +5,104 @@
     maximum-scale=1, minimum-scale=1, user-scalable=no" charset="UTF-8">
     <title>Recycle Game - Level 1</title>
     <script type="text/javascript" src="../js/phaser.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Baloo|Chewy" rel="stylesheet">
     <style>
         body {
             padding: 0;
             margin: 0;
-            background: black;
         }
+
+        .end_menu {
+            position: fixed;
+            background: url("../assets/menu_items/bg.png") no-repeat;
+            background-size: cover;
+            width: 520px;
+            height: 470px;
+            border: 0;
+            top: 30%;
+            left: 50%;
+            margin-top: -100px; /* Negative half of height. */
+            margin-left: -250px; /* Negative half of width. */
+            display: none;
+        }
+
+        .results {
+            background: url("../assets/menu_items/small_table.png") no-repeat;
+            background-size: cover;
+            width: 420px;
+            height: 270px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .caption {
+            font-family: 'Baloo', sans-serif;
+            display: block;
+            text-align: center;
+            margin: 20px auto 0px auto;
+            font-size: 4em;
+            color: #444;
+        }
+
+        .stars {
+            margin: auto;
+            background: url("../assets/menu_items/star_1.png");
+            background-size: cover;
+            width: 200px;
+            height: 100px;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+
+
+        .replay_btn {
+            background: url("../assets/menu_items/btn/restart.png");
+        }
+
+        .continue_btn {
+            background: url("../assets/menu_items/btn/next.png");
+        }
+
+        .menu_btn {
+            background: url("../assets/menu_items/btn/menu.png");
+        }
+
+        .btn {
+            background-size: cover;
+            width:80px;
+            height: 80px;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            transform: scale(1.1);
+        }
+
+        .btn-link + .btn-link {
+            margin-left: 20px;
+        }
+
     </style>
 </head>
 <body>
+
+<div class="end_menu">
+    <div class="results">
+        <h1 class="caption">Great job!</h1>
+        <div class="stars"></div>
+    </div>
+
+    <div class="options">
+        <a class='btn-link' href="lvl1.html"><div class="replay_btn btn"></div></a>
+        <a class='btn-link' href="lvl1.html"><div class="continue_btn btn"></div></a>
+        <a class='btn-link' href="lvl1.html"><div class="menu_btn btn"></div></a>
+    </div>
+
+</div>
 
 <!--game file-->
 <script src="../js/lvl1.js"></script>
