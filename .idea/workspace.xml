@@ -2,47 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ebcc875-0e8d-4455-a9e3-a4e8f29bce1b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/background/barn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/clouds/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/clouds/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/clouds/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/clouds/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/correct.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/close_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/faq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/leader.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/misic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/music_off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/ok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/prew.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/prize.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/restart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/shop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/sound.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/sound_off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/btn/upgrade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/small_table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/star_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/star_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/star_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/star_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_items/table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/wrong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/correct.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/wrong.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/arrow/next_long.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/arrow/recycle_symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/arrow/skip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/chalkboard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/level_pg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/lvl1_tutorial_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bins_general.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bottles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ewaste_waste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/DK_Crayon_Crumble.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/EraserDust.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/EraserRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PPETRIAL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/glass_waste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/levels/game1_thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/levels/lesson1_thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/metal_waste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/organic_waste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/paper_waste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planet_kids.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plastic_waste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/talk_pengu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tutorial1_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lesson1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/levels/level-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/levels/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Background.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/background/Background.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/lvl1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lvl1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/levels/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/levels/lvl1.html" beforeDir="false" afterPath="$PROJECT_DIR$/levels/lvl1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,48 +55,77 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1384" />
-          <entry key="js" value="3407" />
+          <entry key="html" value="6329" />
+          <entry key="js" value="5835" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1384" />
-          <entry key="JavaScript" value="3407" />
+          <entry key="HTML" value="6329" />
+          <entry key="JavaScript" value="5835" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
-          <entry key="Image" value="8" />
+          <entry key="HTML" value="17" />
+          <entry key="Image" value="31" />
+          <entry key="JavaScript" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
-          <entry key="png" value="8" />
+          <entry key="html" value="17" />
+          <entry key="js" value="8" />
+          <entry key="png" value="31" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/levels/lvl1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="423">
+              <caret line="155" column="22" lean-forward="true" selection-start-line="155" selection-start-column="22" selection-end-line="155" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/levels/lvl1.html">
+        <entry file="file://$PROJECT_DIR$/levels/level-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-897">
-              <caret line="3" column="71" lean-forward="true" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+            <state relative-caret-position="75">
+              <caret line="5" column="95" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="45" column="27" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="45" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/lesson1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-282">
+              <caret line="321" column="59" selection-start-line="321" selection-start-column="53" selection-end-line="321" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -113,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/lvl1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1563">
-              <caret line="147" column="1" lean-forward="true" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
+            <state relative-caret-position="4875">
+              <caret line="325" column="26" selection-start-line="325" selection-start-column="26" selection-end-line="325" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -136,9 +156,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/levels/lvl1.html" />
+        <option value="$PROJECT_DIR$/levels/index.html" />
+        <option value="$PROJECT_DIR$/js/lesson1.js" />
+        <option value="$PROJECT_DIR$/js/lvl1_tutorial.js" />
+        <option value="$PROJECT_DIR$/levels/lvl1_tutorial.html" />
         <option value="$PROJECT_DIR$/js/lvl1.js" />
+        <option value="$PROJECT_DIR$/levels/level-page.html" />
         <option value="$PROJECT_DIR$/main.html" />
+        <option value="$PROJECT_DIR$/levels/lvl1.html" />
+        <option value="$PROJECT_DIR$/lessons/lesson1.html" />
       </list>
     </option>
   </component>
@@ -175,26 +201,13 @@
               <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
               <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="clouds" type="462c0819:PsiDirectoryNode" />
+              <item name="arrow" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
               <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="garbage_items" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="menu_items" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="menu_items" type="462c0819:PsiDirectoryNode" />
-              <item name="btn" type="462c0819:PsiDirectoryNode" />
+              <item name="levels" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
@@ -205,6 +218,11 @@
               <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
               <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recycle_game" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="recycle_game" type="b2602c69:ProjectViewProjectNode" />
@@ -227,18 +245,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/assets/menu_items" />
-      <recent name="$PROJECT_DIR$/assets/menu_items/btn" />
-      <recent name="$PROJECT_DIR$/audio" />
+      <recent name="$PROJECT_DIR$/assets/levels" />
       <recent name="$PROJECT_DIR$/assets/background" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/assets/arrow" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/levels" />
+      <recent name="$PROJECT_DIR$/assets/background" />
       <recent name="$PROJECT_DIR$/levels" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/assets/menu_items" />
-      <recent name="D:\Documents\Projects\PCS4KIDS-Game\js" />
-      <recent name="D:\Documents\Projects\PCS4KIDS-Game\assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,12 +286,12 @@
       <workItem from="1537186227569" duration="5516000" />
       <workItem from="1537851504495" duration="21480000" />
       <workItem from="1540348943610" duration="110000" />
-      <workItem from="1540349059344" duration="36539000" />
+      <workItem from="1540349059344" duration="75973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84910000" />
+    <option name="totallyTimeSpent" value="124344000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,7 +311,26 @@
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5039788" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.33110368" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.33012047" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.4960212" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16420014" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5039788" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.33012047" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32998884" />
@@ -301,11 +338,11 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.4960212" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.4960212" weight="0.32891566" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -329,9 +366,6 @@
     <entry file="file://$PROJECT_DIR$/assets/penguin.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/penguin2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/groundSnow.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -340,9 +374,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/garbage_items/organic/organic5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Background.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/menu_items/table.png">
@@ -360,37 +391,111 @@
     <entry file="file://$PROJECT_DIR$/js/phaser.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/levels/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="60" column="50" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assets/menu_items/bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/penguin2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/clouds/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/clouds/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/clouds/4.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/clouds/3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/menu_items/btn/next.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plastic_waste.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bottles.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/planet_kids.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bins_general.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/levels/lvl1_tutorial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="121" column="7" lean-forward="true" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lvl1_tutorial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/talk_pengu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/background/Background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/levels/lesson1_thumbnail.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/levels/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/levels/lvl1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-897">
-          <caret line="3" column="71" lean-forward="true" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+        <state relative-caret-position="423">
+          <caret line="155" column="22" lean-forward="true" selection-start-line="155" selection-start-column="22" selection-end-line="155" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/arrow/skip.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="45" column="27" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="45" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lesson1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="321" column="59" selection-start-line="321" selection-start-column="53" selection-end-line="321" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/levels/level-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="95" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lvl1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1563">
-          <caret line="147" column="1" lean-forward="true" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
+        <state relative-caret-position="4875">
+          <caret line="325" column="26" selection-start-line="325" selection-start-column="26" selection-end-line="325" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/menu_items/bg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.html">
+    <entry file="file://$PROJECT_DIR$/lessons/lesson1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        <state relative-caret-position="696">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
         </state>
       </provider>
     </entry>

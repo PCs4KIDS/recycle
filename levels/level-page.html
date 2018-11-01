@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Level page</title>
+    <link href="https://fonts.googleapis.com/css?family=Baloo|Chewy|Montserrat|Permanent+Marker" rel="stylesheet">
+    <style>
+        body {
+            padding: 30px;
+            margin: 0;
+            background: url("../assets/background/level_pg.png") no-repeat;
+            background-size: cover;
+        }
+
+        img {
+            display: block;
+        }
+
+        .back {
+            position: fixed;
+            left:20px;
+            top: 20px;
+            background-color: #fcd71e;
+            padding: 10px;
+            text-decoration: none;
+            font-family: "Permanent Marker", sans-serif;
+            border-radius: 5px;
+            color: #000;
+            border: 0;
+        }
+
+        .back:hover {
+            transform: scale(1.1)
+        }
+
+        .level-container {
+            display: flex;
+            flex-wrap: wrap;
+            height: 100%;
+            flex-direction: row;
+            justify-content: space-around;
+            padding: 40px;
+
+        }
+
+        .level-title {
+            font-family: 'Permanent Marker', sans-serif;
+            text-align: center;
+            font-size: 3em;
+            text-decoration: underline;
+
+        }
+
+        .level-item {
+            width: 470px;
+            height: 300px;
+            padding: 20px;
+            background: url("../assets/menu_items/small_table.png") no-repeat;
+            background-size: contain;
+        }
+
+
+
+        .lesson1 {
+             background: url("../assets/levels/lesson1_thumbnail.png") no-repeat;
+         }
+
+        .game1 {
+            background: url("../assets/levels/game1_thumbnail.png") no-repeat;
+        }
+
+        .level-img {
+            width: 75%;
+            height: 75%;
+            margin: auto;
+            position: relative;
+            background-size: contain;
+
+        }
+        .start-btn {
+            position: absolute;
+            left:35%;
+            bottom: 20%;
+            font-family: 'Baloo', sans-serif;
+            color: #232323;
+            padding: 5px;
+            width: 100px;
+            background: #b4db41;
+            text-decoration: none;
+            text-align: center;
+            border-radius: 10px;
+            font-size: 1.2em;
+        }
+
+        .start-btn:hover {
+            background: #9dbf3b;
+            cursor: pointer;
+        }
+
+        .level-item h2 {
+            display: block;
+            margin: 0;
+            font-family: 'Chewy', sans-serif;
+            text-align: center;
+            font-size: 2em;
+        }
+
+
+    </style>
+</head>
+<body>
+<a href="../main.html" class="back">Main menu</a>
+<h1 class="level-title">Level menu</h1>
+
+<div class="level-container">
+    <div class="level-item">
+        <h2>Lesson 1</h2>
+
+        <div class="level-img lesson1">
+            <a href="../lessons/lesson1.html" class="start-btn">Start</a>
+        </div>
+    </div>
+    <div class="level-item">
+        <h2>Classifying game</h2>
+
+        <div class="level-img game1">
+            <a href="../levels/lvl1.html" class="start-btn">Play</a>
+        </div>
+    </div>
+
+
+
+
+</div>
+
+</body>
+</html>

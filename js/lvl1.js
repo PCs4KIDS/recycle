@@ -11,14 +11,10 @@ var countdown_text;
 
 var change_countdown = 4;
 
-var gameover_text;
-
 var repeat_timer;
 
 var style;
 var game_start_flag = false;
-
-var restart_btn = document.querySelector('.replay_btn');
 
 
 var GameState = {
@@ -108,7 +104,6 @@ var GameState = {
 
         if(freqcount === 15 && game_start_flag === true) {
             setTimeout(function() {
-                game.debug.text("Done", 32, 132);
                 currIndicator.destroy();
                 game.paused = true;
 
@@ -139,9 +134,6 @@ var GameState = {
             }, 6000);
 
         }
-
-        game.debug.text("Wrong: " + count_wrong, 32, 32);
-
 
 
     }
@@ -183,16 +175,6 @@ var change_indicator;
 
 
 var plastic_item, organic_item;
-
-// function restart() {
-//     freqcount = 0;
-//     countdown = 3;
-//     change_countdown= 3;
-//     count_correct = 0;
-//     count_wrong = 0;
-//     game.state.start(game.state.current);
-//
-// }
 
 
 function updateCounter() {
@@ -338,5 +320,9 @@ function organicListener(organic_item)
 }
 
 game.state.add('GameState', GameState);
-game.state.start('GameState');
+
+$('#play-btn').click(function(){
+    game.state.start('GameState');
+    $('.tutorial').hide();
+});
 

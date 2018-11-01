@@ -3,16 +3,16 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1,
     maximum-scale=1, minimum-scale=1, user-scalable=no" charset="UTF-8">
-    <title>Recycle Game - Level 1</title>
+    <title>Level 1</title>
     <script type="text/javascript" src="../js/phaser.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Baloo|Chewy" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Baloo|Chewy|Montserrat" rel="stylesheet">
     <style>
         body {
             padding: 0;
             margin: 0;
         }
 
-        .end_menu {
+        .end_menu, .tutorial {
             position: fixed;
             background: url("../assets/menu_items/bg.png") no-repeat;
             background-size: cover;
@@ -26,7 +26,8 @@
             display: none;
         }
 
-        .results {
+        .results,
+        .tutorial-container {
             background: url("../assets/menu_items/small_table.png") no-repeat;
             background-size: cover;
             width: 420px;
@@ -35,7 +36,8 @@
             padding: 20px;
         }
 
-        .caption {
+        .caption,
+        .tutorial-title{
             font-family: 'Baloo', sans-serif;
             display: block;
             text-align: center;
@@ -86,6 +88,53 @@
             margin-left: 20px;
         }
 
+        .tutorial {
+            display: block;
+            width: 580px;
+            height: 530px;
+            padding-bottom: 10px;
+        }
+
+        .tutorial-container {
+            width: 460px;
+            height: 300px;
+        }
+
+        .tutorial-title {
+            font-size: 2.1em;
+            margin-top: 10px;
+        }
+        .tutorial-img {
+            display: block;
+            margin: auto;
+            width: 80%;
+        }
+
+        .instructions {
+            display: block;
+            margin-top: 50px;
+            font-family: 'Montserrat', sans-serif;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        #play-btn {
+            display: block;
+            margin: 65px auto 0 auto;
+            width: 100px;
+            padding: 10px;
+            font-size: 2em;
+            font-family: 'Chewy', sans-serif;
+            color: #fff;
+            border: 0;
+            border-radius: 8px;
+            background-color: #b4db41;
+        }
+
+        #play-btn:hover {
+            background-color: #9dbf3b;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
@@ -98,12 +147,27 @@
 
     <div class="options">
         <a class='btn-link' href="lvl1.html"><div class="replay_btn btn"></div></a>
-        <a class='btn-link' href="lvl1.html"><div class="continue_btn btn"></div></a>
-        <a class='btn-link' href="lvl1.html"><div class="menu_btn btn"></div></a>
+        <a class='btn-link' href="level-page.html"><div class="continue_btn btn"></div></a>
+        <a class='btn-link' href="level-page.html"><div class="menu_btn btn"></div></a>
     </div>
 
 </div>
 
+<div class="tutorial">
+    <div class="tutorial-container">
+        <h1 class="tutorial-title">Tutorial</h1>
+        <img class="tutorial-img" src="../assets/tutorial1_img.png">
+        <h3 class="instructions">Pick the falling rubbish that matches the <strong>trash category</strong> written on top!</h3>
+    </div>
+
+    <button id="play-btn">PLAY</button>
+
+</div>
+<script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
 <!--game file-->
 <script src="../js/lvl1.js"></script>
 </body>

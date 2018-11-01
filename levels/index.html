@@ -45,9 +45,11 @@
 
     function preload ()
     {
-        this.load.image('sky', 'assets/background.png');
-        this.load.image('ground', 'assets/platform.png');;
-        this.load.spritesheet('penguin', 'assets/penguin2.png', {frameWidth: 182, frameHeight: 201});
+        this.load.image('sky', '../assets/background.png');
+        this.load.image('ground', '../assets/platform.png');;
+        this.load.spritesheet('penguin', '../assets/penguin2.png', {frameWidth: 182, frameHeight: 201});
+        this.load.spritesheet('penguin_talk', '../assets/talk_pengu.png', {frameWidth: 338, frameHeight: 430});
+
     }
 
     function create ()
@@ -73,15 +75,15 @@
 
         this.anims.create({
             key: 'stop',
-            frames: [ { key: 'penguin', frame: 0 } ],
+            frames: [ { key: 'penguin_talk', frame: 0 } ],
             frameRate: 20
         });
 
 
         this.anims.create({
             key: 'walk',
-            frames: this.anims.generateFrameNumbers('penguin', {start: 0, end: 14}),
-            frameRate: 10,
+            frames: this.anims.generateFrameNumbers('penguin_talk', {start: 0, end: 14}),
+            frameRate: 6,
             repeat: -1
         });
 
@@ -92,17 +94,19 @@
 
     function update ()
     {
+
+
         if (cursors.left.isDown)
         {
-            player.setVelocityX(-200);
+            // player.setVelocityX(-200);
             player.anims.play('walk', true);
-            player.flipX= true;
+            // player.flipX= true;
         }
         else if (cursors.right.isDown)
         {
-            player.setVelocityX(200);
+            // player.setVelocityX(200);
             player.anims.play('walk', true);
-            player.flipX= false;
+            // player.flipX= false;
 
         } else {
             player.setVelocityX(0);
