@@ -152,7 +152,9 @@ function updateCounter() {
             }
         });
 
-        $('.lesson > .lesson-content').css({"margin-top": '0'});
+
+
+        $('.lesson > .lesson-content').css({"margin-top": '0', 'max-width': '70%'});
 
         $('.lesson > .lesson-content > img.bin-img').show();
 
